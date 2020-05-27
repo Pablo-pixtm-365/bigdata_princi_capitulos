@@ -1,6 +1,7 @@
 ## Chapter 3:
 1.-What tool can be used to define static and flexible schematics?
 Apache Thrift
+\\[2mm]
 2.- What can an individual identify with on a site like superwebanalytics.com?
 by a user ID or a browser cookie
 3.- How to store all data together?
