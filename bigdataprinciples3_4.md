@@ -1,15 +1,18 @@
 ## Chapter 3:
 1.-What tool can be used to define static and flexible schematics?
-Apache Thrift
-\\[2mm]
+> Apache Thrift
+
 2.- What can an individual identify with on a site like superwebanalytics.com?
-by a user ID or a browser cookie
+> by a user ID or a browser cookie
+
 3.- How to store all data together?
-It is achieved by wrapping each property and border type in a DataDanit union.
+> It is achieved by wrapping each property and border type in a DataDanit union.
+
 4.- The pedigree contains the timestamp of the information, but could it too?
-contain debugging information or the source of the data.
+> contain debugging information or the source of the data.
+
 5.- Do serialization frames just check?
-that all required fields are present and of the expected type
+> that all required fields are present and of the expected type
 
 ## Chapter 4:
 1.- What to consider for data storage requirements?
